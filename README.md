@@ -1,2 +1,2 @@
 # ZuraLogix
-A website for my agency
+A website for my digital marketing agency
